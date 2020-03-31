@@ -1,3 +1,14 @@
+## 개발환경
+IDE : VSCODE
+
+## 환경구축관련
+npm install -g create-react-app
+create-react-app hello-react
+
+## 버그 및 에러관련
+--GIT 관련
+git config core.autocrlf true
+
 ## ref url
 https://velopert.com/3621
 
